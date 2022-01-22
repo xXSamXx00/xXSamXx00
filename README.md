@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<img src="https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg" height=10 width="1000">
+<img src="https://github.com/xXSamXx00/xXSamXx00/blob/main/back.jpg" height=300 width="1000">
 
 <h2 align="center">Jr Full Stack Developer</h2>
 
