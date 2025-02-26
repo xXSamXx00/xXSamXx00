@@ -2,7 +2,7 @@
 
 <img src="https://github.com/xXSamXx00/xXSamXx00/blob/main/back.jpg">
 
-<h2 align="center">Jr Full Stack Developer</h2>
+<h2 align="center">Full Stack Developer</h2>
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
